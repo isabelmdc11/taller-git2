@@ -1,7 +1,9 @@
 public Personaje {
-    public String nombre;
+    
+    publoc String nombre;
+    
+    public void setNombre(String valor){
+        this.nombre= valor;
 
-    public Personaje (String nombre) {
-        this.nombre = nombre
     }
 }
