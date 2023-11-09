@@ -4,5 +4,6 @@ public Personaje {
     
     public void setNombre(String valor){
         this.nombre= valor;
+
     }
 }
