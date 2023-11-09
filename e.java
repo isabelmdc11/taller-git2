@@ -4,4 +4,7 @@ public Robot {
     public Robot(String nombre) {
         this.nombre= nombre
     }
+     public void setNombre(String valor){
+        this.nombre= valor;
+    }
 }
